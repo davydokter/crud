@@ -2,7 +2,7 @@
 require "dbconnect.php";
 session_start();
 ?>
-// test change
+<!-- Test -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
